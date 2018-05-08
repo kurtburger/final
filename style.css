@@ -82,4 +82,5 @@ figure {font-size: 9px;
     border-left-color: black;
 }
 
-
+.carousel .carousel-item {
+width:300px !important;}
